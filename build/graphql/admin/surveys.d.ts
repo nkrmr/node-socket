@@ -1,0 +1,9 @@
+export declare const SURVEY_QUESTIONS_FRAGMENT: import("@apollo/client").DocumentNode;
+export declare const SURVEY_ANSWERS_FRAGMENT: import("@apollo/client").DocumentNode;
+export declare const SURVEY_FRAGMENT: import("@apollo/client").DocumentNode;
+export declare const INSERT_SURVEY: import("@apollo/client").DocumentNode;
+export declare const GET_SURVEY_SPECIFICS: import("@apollo/client").DocumentNode;
+export declare const UPDATE_SURVEY: import("@apollo/client").DocumentNode;
+export declare const INSERT_SURVEY_QUESTION: import("@apollo/client").DocumentNode;
+export declare const UPDATE_SURVEY_QUESTION: import("@apollo/client").DocumentNode;
+export declare const DELETE_SURVEY_QUESTION: import("@apollo/client").DocumentNode;

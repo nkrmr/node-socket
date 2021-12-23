@@ -1,0 +1,9 @@
+export declare const QUIZZ_QUESTIONS_FRAGMENT: import("@apollo/client").DocumentNode;
+export declare const QUIZZ_ANSWERS_FRAGMENT: import("@apollo/client").DocumentNode;
+export declare const QUIZZ_FRAGMENT: import("@apollo/client").DocumentNode;
+export declare const GET_QUIZZ_SPECIFIC: import("@apollo/client").DocumentNode;
+export declare const INSERT_QUIZZ: import("@apollo/client").DocumentNode;
+export declare const UPDATE_QUIZZ: import("@apollo/client").DocumentNode;
+export declare const INSERT_QUIZZ_QUESTION: import("@apollo/client").DocumentNode;
+export declare const UPDATE_QUIZZ_QUESTION: import("@apollo/client").DocumentNode;
+export declare const DELETE_QUIZZ_QUESTION: import("@apollo/client").DocumentNode;

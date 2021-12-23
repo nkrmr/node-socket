@@ -1,0 +1,15 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.getUsersRouter = exports.getMagicRouter = exports.getGoodiesRouter = exports.getGamesRouter = exports.getFilesRouter = exports.getClientsRouter = void 0;
+var clients_1 = require("./clients");
+Object.defineProperty(exports, "getClientsRouter", { enumerable: true, get: function () { return clients_1.getClientsRouter; } });
+var files_1 = require("./files");
+Object.defineProperty(exports, "getFilesRouter", { enumerable: true, get: function () { return files_1.getFilesRouter; } });
+var games_1 = require("./games");
+Object.defineProperty(exports, "getGamesRouter", { enumerable: true, get: function () { return games_1.getGamesRouter; } });
+var goodies_1 = require("./goodies");
+Object.defineProperty(exports, "getGoodiesRouter", { enumerable: true, get: function () { return goodies_1.getGoodiesRouter; } });
+var magic_1 = require("./magic");
+Object.defineProperty(exports, "getMagicRouter", { enumerable: true, get: function () { return magic_1.getMagicRouter; } });
+var users_1 = require("./users");
+Object.defineProperty(exports, "getUsersRouter", { enumerable: true, get: function () { return users_1.getUsersRouter; } });

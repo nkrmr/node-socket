@@ -1,0 +1,10 @@
+export declare const PRIVATE_DECK_M2M_ENTITIES_FRAGMENT: import("@apollo/client").DocumentNode;
+export declare const PRIVATE_DECK_FRAGMENT: import("@apollo/client").DocumentNode;
+export declare const GET_PRIVATES_DECKS_BY_CLIENT: import("@apollo/client").DocumentNode;
+export declare const INSERT_PRIVATE_DECK: import("@apollo/client").DocumentNode;
+export declare const UPDATE_PRIVATE_DECK: import("@apollo/client").DocumentNode;
+export declare const ARCHIVE_PRIVATE_DECK: import("@apollo/client").DocumentNode;
+export declare const GET_GAMES_COMMUNICATIONS_MINIMAL_INFOS: import("@apollo/client").DocumentNode;
+export declare const INSERT_PRIVATES_DECKS_M2M_ENTITIES: import("@apollo/client").DocumentNode;
+export declare const GET_PRIVATES_DECKS_M2M_ENTITIES: import("@apollo/client").DocumentNode;
+export declare const DELETE_PRIVATES_DECKS_M2M_ENTITIES_BY_PK: import("@apollo/client").DocumentNode;

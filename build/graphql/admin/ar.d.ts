@@ -1,0 +1,14 @@
+export declare const ANIMATION_FRAGMENT: import("@apollo/client").DocumentNode;
+export declare const AR_SPECIFICS_FRAGMENT: import("@apollo/client").DocumentNode;
+export declare const AR_FRAGMENT: import("@apollo/client").DocumentNode;
+export declare const AR_M2M_ANIMATION_FRAGMENT: import("@apollo/client").DocumentNode;
+export declare const ANIMATION_M2M_ASSET_FRAGMENT: import("@apollo/client").DocumentNode;
+export declare const GET_AR: import("@apollo/client").DocumentNode;
+export declare const GET_AR_SPECIFICS: import("@apollo/client").DocumentNode;
+export declare const INSERT_AR: import("@apollo/client").DocumentNode;
+export declare const UPDATE_ANIMATION: import("@apollo/client").DocumentNode;
+export declare const INSERT_AR_M2M_ANIMATIONS: import("@apollo/client").DocumentNode;
+export declare const DELETE_AR_M2M_ANIMATIONS: import("@apollo/client").DocumentNode;
+export declare const INSERT_ANIMATIONS_M2M_ASSETS: import("@apollo/client").DocumentNode;
+export declare const UPDATE_ANIMATIONS_M2M_ASSETS: import("@apollo/client").DocumentNode;
+export declare const DELETE_ANIMATIONS_M2M_ASSETS: import("@apollo/client").DocumentNode;

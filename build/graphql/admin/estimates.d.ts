@@ -1,0 +1,11 @@
+export declare const ESTIMATE_M2M_ENTITIES_FRAGMENT: import("@apollo/client").DocumentNode;
+export declare const ESTIMATE_FRAGMENT: import("@apollo/client").DocumentNode;
+export declare const GET_ESTIMATES_BY_CLIENT: import("@apollo/client").DocumentNode;
+export declare const INSERT_ESTIMATE: import("@apollo/client").DocumentNode;
+export declare const UPDATE_ESTIMATE: import("@apollo/client").DocumentNode;
+export declare const ARCHIVE_ESTIMATE: import("@apollo/client").DocumentNode;
+export declare const INSERT_ESTIMATES_M2M_ENTITIES: import("@apollo/client").DocumentNode;
+export declare const UPDATE_ESTIMATES_M2M_ENTITIES: import("@apollo/client").DocumentNode;
+export declare const GET_ESTIMATES_M2M_ENTITIES: import("@apollo/client").DocumentNode;
+export declare const ARCHIVE_ESTIMATES_M2M_ENTITIES_BY_PK: import("@apollo/client").DocumentNode;
+export declare const GET_GAMES_COMMUNICATIONS_TYPES: import("@apollo/client").DocumentNode;
